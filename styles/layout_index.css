@@ -118,23 +118,18 @@
     float: left;
 }
 #box_top_sub1_sub2{
-   background-image: url(/images/images/searchbg.png);
     margin-top: 19px;
     width: 155px;
-    background-repeat: no-repeat;
-    background-position: right top;
     float: right;
     height: 26px;
     padding-top: 5px;
 }
 #box_banner_sub1{
-   background-image: url(/images/images/dhbg.png);
+   background: url(../images/images/dhbg.png) no-repeat center top;
     z-index: 999;
     position: absolute;
     margin: 0px auto;
     width: 100%;
-    background-repeat: no-repeat;
-    background-position: center top;
     float: none;
     height: 39px;
     top: 71px;
